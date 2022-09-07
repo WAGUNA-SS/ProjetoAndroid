@@ -199,6 +199,10 @@ footer a {
 }
 
 footer a:hover {
+    
+    /*background-image: url(https://cdn.pixabay.com/photo/2018/05/08/21/08/android-3383929_960_720.png); vou por esta imagem em breve */
+
+
     text-decoration: underline;
     color: var(--cor5);
 }
