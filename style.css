@@ -129,7 +129,21 @@ main img.pequena {
     display: block;
     margin: auto;
 }
+/*
+#container {
+    position: relative;
+    background-color: var(--cor3);
+ padding: 50px;
+ 
+}
 
+.video {
+
+    position: absolute;
+    left: 50%;
+            top: 50%;
+            transform: translate(-50% , -50%);
+}*/
 .video {
     background-color: var(--cor3);
     align-items: center;
@@ -200,9 +214,13 @@ footer a {
 
 footer a:hover {
     
-    /*background-image: url(https://cdn.pixabay.com/photo/2018/05/08/21/08/android-3383929_960_720.png); vou por esta imagem em breve */
+    
 
 
     text-decoration: underline;
     color: var(--cor5);
 }
+
+    
+    /*background-image: url(https://cdn.pixabay.com/photo/2018/05/08/21/08/android-3383929_960_720.png);*/
+    
